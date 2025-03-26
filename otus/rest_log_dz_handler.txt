@@ -1,0 +1,20 @@
+array (
+  'event' => 'ONCRMACTIVITYADD',
+  'event_handler_id' => '3',
+  'data' => 
+  array (
+    'FIELDS' => 
+    array (
+      'ID' => '4',
+    ),
+  ),
+  'ts' => '1739036568',
+  'auth' => 
+  array (
+    'domain' => 'ce76367.tw1.ru',
+    'client_endpoint' => 'https://ce76367.tw1.ru/rest/',
+    'server_endpoint' => 'https://oauth.bitrix.info/rest/',
+    'member_id' => 'bd401941b723a2b20f0aa714cd111e1b',
+    'application_token' => 'cuios1kqq8k58sq62lpxl65a7abcr7yy',
+  ),
+)

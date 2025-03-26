@@ -1,0 +1,77 @@
+array (
+  'event' => 'ONCRMDEALUPDATE',
+  'event_handler_id' => '141',
+  'data' => 
+  array (
+    'FIELDS' => 
+    array (
+      'ID' => '4347',
+    ),
+  ),
+  'ts' => '1739029882',
+  'auth' => 
+  array (
+    'domain' => 'magicolors.bitrix24.ru',
+    'client_endpoint' => 'https://magicolors.bitrix24.ru/rest/',
+    'server_endpoint' => 'https://oauth.bitrix.info/rest/',
+    'member_id' => 'ebe9268d8ec774d6d1b137a8dffdfce9',
+    'application_token' => 't06swf1aj2yj50zi720r3ofo51hoybtc',
+  ),
+)array (
+  'event' => 'ONCRMDEALUPDATE',
+  'event_handler_id' => '141',
+  'data' => 
+  array (
+    'FIELDS' => 
+    array (
+      'ID' => '4347',
+    ),
+  ),
+  'ts' => '1739030404',
+  'auth' => 
+  array (
+    'domain' => 'magicolors.bitrix24.ru',
+    'client_endpoint' => 'https://magicolors.bitrix24.ru/rest/',
+    'server_endpoint' => 'https://oauth.bitrix.info/rest/',
+    'member_id' => 'ebe9268d8ec774d6d1b137a8dffdfce9',
+    'application_token' => 't06swf1aj2yj50zi720r3ofo51hoybtc',
+  ),
+)array (
+  'event' => 'ONCRMDEALUPDATE',
+  'event_handler_id' => '141',
+  'data' => 
+  array (
+    'FIELDS' => 
+    array (
+      'ID' => '4347',
+    ),
+  ),
+  'ts' => '1739030442',
+  'auth' => 
+  array (
+    'domain' => 'magicolors.bitrix24.ru',
+    'client_endpoint' => 'https://magicolors.bitrix24.ru/rest/',
+    'server_endpoint' => 'https://oauth.bitrix.info/rest/',
+    'member_id' => 'ebe9268d8ec774d6d1b137a8dffdfce9',
+    'application_token' => 't06swf1aj2yj50zi720r3ofo51hoybtc',
+  ),
+)array (
+  'event' => 'ONCRMDEALUPDATE',
+  'event_handler_id' => '141',
+  'data' => 
+  array (
+    'FIELDS' => 
+    array (
+      'ID' => '4347',
+    ),
+  ),
+  'ts' => '1739030759',
+  'auth' => 
+  array (
+    'domain' => 'magicolors.bitrix24.ru',
+    'client_endpoint' => 'https://magicolors.bitrix24.ru/rest/',
+    'server_endpoint' => 'https://oauth.bitrix.info/rest/',
+    'member_id' => 'ebe9268d8ec774d6d1b137a8dffdfce9',
+    'application_token' => 't06swf1aj2yj50zi720r3ofo51hoybtc',
+  ),
+)
