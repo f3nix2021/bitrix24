@@ -44,7 +44,6 @@ if(!empty($_POST['block'])) {
     //$arSelect = ["ID", "NAME", "PREVIEW_TEXT", "DETAIL_PAGE_URL"];
     $arFilter = ["IBLOCK_ID" => $iblockId, "ACTIVE" => "Y"];
 
-    // Получаем элементы 1234
 
     echo "<table>";
     echo "<th>Name</th>";
